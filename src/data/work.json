@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "../images/work/proto.png",
+    "title": "Proto Software",
+    "subtitle": "Fullstack Software Developer Intern",
+    "period": "July 2021 - Current",
+    "location": "Istanbul, Turkey",
+    "specialization": "Currently Developing end-to-end applications"
+  },
+  {
+    "icon": "../images/work/makesosimple.png",
+    "title": "makeSOsimple",
+    "subtitle": "Frontend Developer",
+    "period": "March 2021 - June 2021",
+    "location": "Istanbul, Turkey",
+    "specialization": "ReactJS; GatsbyJS; React-Native; Apache Cordova"
+  },
+  {
+    "icon": "../images/work/infinia.png",
+    "title": "Infinia Engineering",
+    "subtitle": "Volunteer Intern",
+    "period": "July 2019 - August 2019",
+    "location": "Ankara, Turkey",
+    "specialization": "Unity 3D; Edge Blending; Projection Mapping"
+  }
+]
