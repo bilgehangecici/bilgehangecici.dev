@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "../images/education/university.png",
+    "title": "Marmara University",
+    "subtitle": "Computer Science & Engineering",
+    "period": "2017 - Current"
+  },
+  {
+    "icon": "../images/education/highschool.png",
+    "title": "Trabzon Gazi Anatolian High School",
+    "subtitle": "Math & Science | Graduated as top ranked student with 3.93/4.00 GPA ",
+    "period": "2013 - 2017"
+  }
+]
