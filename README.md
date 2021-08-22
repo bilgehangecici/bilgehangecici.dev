@@ -11,13 +11,11 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+1.  **Clone the repository.**
 
     ```shell
     # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    git clone https://github.com/bilgehangecici/bilgehangecici.dev
     ```
 
 2.  **Start developing.**
