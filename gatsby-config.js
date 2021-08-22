@@ -26,6 +26,11 @@ module.exports = {
           // Puts tracking script in the head instead of the body
           head: false,
         },
+        gtagConfig: {
+          anonymize_ip: false,
+          cookie_expires: 0,
+          send_page_view: true,
+        },
       },
     },
     `gatsby-plugin-sitemap`,
