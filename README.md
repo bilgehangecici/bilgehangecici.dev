@@ -1,6 +1,8 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://www.gatsbyjs.com/starters/melanienolan/gatsby-starter-tailwind-css">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Tailwind" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="80"/>
   </a>
 </p>
 <h1 align="center">
