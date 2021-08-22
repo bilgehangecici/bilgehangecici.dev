@@ -51,6 +51,7 @@ e2e-tests/gatsby-pnp/
 # misc
 .serverless/
 .eslintcache
+.env
 
 # lock files
 yarn.lock
