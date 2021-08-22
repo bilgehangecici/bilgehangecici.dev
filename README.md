@@ -33,7 +33,7 @@
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
-## 🚀 Deployed with Gatsby Cloud
+## �☁️ Deployed with Gatsby Cloud
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
