@@ -21,11 +21,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: [process.env.GA_TRACKING_ID],
+        trackingIds: ["G-D20B102Q18"],
         pluginConfig: {
           // Puts tracking script in the head instead of the body
           head: false,
-          send_page_view: true,
         },
       },
     },
