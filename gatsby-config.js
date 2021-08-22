@@ -25,6 +25,7 @@ module.exports = {
         pluginConfig: {
           // Puts tracking script in the head instead of the body
           head: false,
+          send_page_view: true,
         },
       },
     },
