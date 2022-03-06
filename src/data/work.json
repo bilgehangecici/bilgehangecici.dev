@@ -1,5 +1,13 @@
 [
   {
+    "icon": "../images/work/ghost_company.png",
+    "title": "Freelance",
+    "subtitle": "Freelance Frontend Engineer",
+    "period": "October 2021 - Current",
+    "location": "No location based",
+    "specialization": "ReactJS; GatsbyJS; NextJS; JavaScript; TypeScript; GraphQL; Saas; Bootstrap; Figma;"
+  },
+  {
     "icon": "../images/work/proto.png",
     "title": "Proto Software",
     "subtitle": "Software Engineer",
