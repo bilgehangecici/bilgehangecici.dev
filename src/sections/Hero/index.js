@@ -3,6 +3,7 @@ import GatsbyImage from "gatsby-image";
 import Parallax from "parallax-js";
 import React, { useRef, useState, useEffect } from "react";
 import Subtitle from "../../components/Subtitle";
+import ScrollButton from "../../components/ScollButton";
 import styles from "./Hero.module.css";
 
 const Hero = () => {
@@ -63,6 +64,7 @@ const Hero = () => {
             </h1>
 
             <Subtitle onDone={() => setShowSocial(true)} />
+            <ScrollButton />
           </div>
         </div>
       </div>
