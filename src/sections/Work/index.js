@@ -41,7 +41,7 @@ const Work = () => {
         Announcement
       </div> */}
 
-      <div className="flex">
+      <div className="flex" style={{width: "max-content"}}>
         <div className="w-1 bg-gray-500 rounded-full md:ml-6 opacity-25" />
         <div className="-ml-2">
           {data.allWorkJson.edges.map(({ node }, index) => {
@@ -78,7 +78,7 @@ const Work = () => {
                       {node.location}
                     </h6>
                   </div>
-                  <h6 className="text-xs mt-2">
+                  <h6 className="text-xs mt-2" style={{width: "16rem"}}>
                     {/* <strong>Worked with:</strong>*/} {node.specialization}
                   </h6>
                 </div>
