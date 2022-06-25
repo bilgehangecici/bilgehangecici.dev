@@ -34,7 +34,7 @@ const Education = () => {
     <section id="education">
       <Heading icon={MdSchool} title="Education" />
 
-      <div className="flex">
+      <div className="flex" style={{width: "max-content"}}>
         <div className="w-1 bg-gray-500 rounded-full md:ml-6 opacity-25" />
         <div className="-ml-2">
           {data.allEducationJson.edges.map(({ node }, index) => {
@@ -59,7 +59,7 @@ const Education = () => {
                     {...node.icon.childImageSharp}
                   />
                   <h6 className="mt-3 font-semibold">{node.title}</h6>
-                  <h6 className="text-sm">{node.subtitle}</h6>
+                  <h6 className="text-sm" style={{width: "16rem"}}>{node.subtitle}</h6>
                   <h6 className="mt-2 text-xs">({node.period})</h6>
                 </div>
               </div>
