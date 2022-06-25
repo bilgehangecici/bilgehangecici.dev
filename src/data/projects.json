@@ -2,7 +2,7 @@
   {
     "image": "../images/projects/moviecatalog.png",
     "title": "Movie Catalog",
-    "description":"A Movie Catalog App alike IMDB, made with ReactJS and TMDB API  ",
+    "description":"A Movie Catalog App alike IMDB, made with ReactJS and TMDB API",
     "tags": ["react", "hooks", "TMDB", "api"], 
     "github":"https://github.com/bilgehangecici/ReactJS-MovieCatalog"
   },
