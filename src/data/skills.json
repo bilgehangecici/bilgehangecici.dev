@@ -7,12 +7,12 @@
   {
    "icon": "../images/skills/website-design.png",
     "name": "Web Design and Frontend Development",
-    "tech": "HTML5 | CSS3 | Figma | Avocode"
+    "tech": "HTML5 | CSS3 | Figma | Sketch | Avocode"
   },
   {
    "icon": "../images/skills/react.png",
     "name": "Frontend Javascript Frameworks",
-    "tech": "ReactJS | GatsbyJS | NextJS"
+    "tech": "React | Gatsby.js | Next.js"
   },
    {
     "icon": "../images/skills/android.png",
