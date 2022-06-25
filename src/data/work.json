@@ -11,9 +11,9 @@
     "icon": "../images/work/proto.png",
     "title": "Proto Software",
     "subtitle": "Software Engineer",
-    "period": "September 2021 - Current",
+    "period": "September 2021 - June 2022",
     "location": "Istanbul, Turkey",
-    "specialization": "Currently Developing end-to-end applications"
+    "specialization": "React; Next.js; Gatsby.js; JavaScript; TypeScript; Webpack; Sass; TailwindCSS; react-bootstrap; Sketch"
   },
   {
     "icon": "../images/work/proto.png",
@@ -21,7 +21,7 @@
     "subtitle": "Software Engineer Intern",
     "period": "July 2021 - September 2021",
     "location": "Istanbul, Turkey",
-    "specialization": "ReactJS; JavaScript; TypeScript; Docker; Java; Spring Boot; Hibernate; Mockito;"
+    "specialization": "ReactJS; JavaScript; TypeScript; Docker; Java; Spring Boot; Hibernate; Mockito"
   },
   {
     "icon": "../images/work/makesosimple.png",
