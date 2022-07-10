@@ -1,5 +1,13 @@
 [
-  {
+  { 
+    "icon": "../images/work/bumper.png",
+    "title": "Bumper",
+    "subtitle": "Frontend Engineer",
+    "period": "July 2022 - Current",
+    "location": "London, United Kingdom",
+    "specialization": "ReactJS; NextJS; JavaScript; TypeScript; TailwindCSS; Saas; Figma;"
+  },
+  { 
     "icon": "../images/work/ghost_company.png",
     "title": "Freelance",
     "subtitle": "Freelance Frontend Engineer",
